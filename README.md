@@ -62,7 +62,8 @@
 ```
 Name: M.CHANDRU
 Register Number:212222230026
-![image](https://github.com/chandrumathiyazhagan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393023/2bcc1d0a-2c4e-414b-a1c9-065d0b861aec)
+```
+![image](https://github.com/chandrumathiyazhagan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393023/5f6739aa-e1df-4eae-beae-709c9b27498e)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
